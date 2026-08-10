@@ -440,9 +440,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 
 ## Congratulations
 
-After completing the requirements of the curriculum above,
-you will have completed the equivalent of a full bachelor's degree in Computer Science.
-Congratulations!
+After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science. Congratulations!
 
 What is next for you? The possibilities are boundless and overlapping:
 
