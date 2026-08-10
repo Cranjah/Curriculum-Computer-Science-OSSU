@@ -50,7 +50,7 @@ When there are courses or books that don't fit into the curriculum but are other
 - *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests
 - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
 
-**Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1y2kMsIg9VaHMVmw35x_aH1hpty3V-ZMuV2jA13P_Cgo/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
+**Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours per week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1y2kMsIg9VaHMVmw35x_aH1hpty3V-ZMuV2jA13P_Cgo/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
   
 > **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not always be up-to-date with the curriculum. Use the [OSSU CS website](https://cs.ossu.dev) or [the GitHub Repo](https://github.com/ossu/computer-science) to see what courses to do.
 
@@ -62,7 +62,7 @@ just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 - We recommend doing all courses in Core CS, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week. A popular option is to take the math courses in parallel with the introductory courses. Course prerequisites are listed to help you determine if you are prepared for a given course.
+- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day or week. A popular option is to take the math courses in parallel with the introductory courses. Course prerequisites are listed to help you determine if you are prepared for a given course.
 - Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject; the Discord community may provide feedback on your planned subject.
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
