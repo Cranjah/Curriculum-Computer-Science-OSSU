@@ -18,8 +18,8 @@
 
 - [Summary](#summary)
 - [Community](#community)
-- [CS-Curriculum](#cs-curriculum)
-- [Code of Conduct](#code-of-conduct)
+- [CS Curriculum](#cs-curriculum)
+- [The Code of Conduct](#the-code-of-conduct)
 - [Team](#team)
 
 # Summary
@@ -83,7 +83,7 @@ just remember that you can't purchase success!
 >  - An unmaintained and deprecated trello board
 >  - Third-party notion templates
 
-# CS-Curriculum
+# CS Curriculum
 
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
@@ -454,12 +454,15 @@ What is next for you? The possibilities are boundless and overlapping:
 
 <img src="images/keep-learning.png" alt="Keep Learning."/>
 
-# Code of Conduct
+
+# The Code of Conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+
 
 ## How to show your progress
 
 [Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub Repo](https://github.com/ossu/computer-science) into your own GitHub Account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses). Use the ❌ to mark courses you did not pass (just in case) and 🚧 for things you are working on at the moment, might be a course / reading in progress or something else - be creative!
+
 
 # Team
 
