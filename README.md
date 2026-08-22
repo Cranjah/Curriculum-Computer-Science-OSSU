@@ -242,7 +242,7 @@ Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | ✅ | [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | [Own Certificate](https://certificates.cs50.io/0c356023-eb6f-4ee5-8721-e10b14ba3d92.pdf?size=A4)
+[Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | ✅ | [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) | [Own Certificate](https://certificates.cs50.io/e597145b-8e94-405a-ac5d-de46572eeb61.pdf?size=A4)
 [Cybersecurity Fundamentals](https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | ✅ | [Cyberwar, Surveillance and Security](https://learning.edx.org/course/course-v1:AdelaideX+Cyber101x+1T2016/home) | [Own Certificate](https://courses.edx.org/certificates/6d2f92bb12514c85a5186501d583c4a6)
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | - | - | -
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | - | - | -
